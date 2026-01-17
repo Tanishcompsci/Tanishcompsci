@@ -1,5 +1,5 @@
-## Hi there 👋
-#### I'm Tanish, a computer engineering student at the University of Maryland.
+## Hi there, I'm Tanish 👋
+#### I'm a computer engineering student at the University of Maryland.
 #### Passionate about designing and building data solutions.
 #### Experienced in creating data pipelines and data workflows.
 #### Currently expanding my expertise in cloud technologies.
