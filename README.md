@@ -1,8 +1,8 @@
 ## Hi there 👋
-### I'm Tanish, a computer engineering student at the University of Maryland.
-### Passionate about designing and building data solutions.
-### Experienced in creating data pipelines and data workflows.
-### Currently expanding knowledge in cloud technologies.
+#### I'm Tanish, a computer engineering student at the University of Maryland.
+#### Passionate about designing and building data solutions.
+#### Experienced in creating data pipelines and data workflows.
+#### Currently expanding knowledge in cloud technologies.
 
 **Main Tech Stack:** Python | SQL | Airflow | PostgreSQL | Azure
 
