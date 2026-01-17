@@ -10,7 +10,7 @@
 - Python, SQL
 - Apache Airflow
 - PostgreSQL, Microsoft SQL Server
-- Azure
+- Azure, Google Cloud Platform
 - Git, Docker
 
 
