@@ -4,10 +4,10 @@
 #### Experienced in creating data pipelines and data workflows.
 #### Currently expanding my expertise in cloud technologies.
 
-### Main Tech Stack
+## Tools & Tech
 - Python | SQL | Airflow | PostgreSQL | Azure
 
-### Contact
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/tanish-parlapall/)
 - [Email](mailto:tanish.parlapall@gmail.com)
 
