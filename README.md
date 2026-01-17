@@ -7,7 +7,11 @@
 
 
 ## Tools & Tech
-- Python | SQL | Airflow | PostgreSQL | Azure
+- Python, SQL
+- Apache Airflow
+- PostgreSQL, Microsoft SQL Server
+- Azure
+- Git, Docker
 
 
 
