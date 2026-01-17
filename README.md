@@ -4,11 +4,11 @@
 #### Experienced in creating data pipelines and data processing solutions.
 #### Currently working on expanding my knowledge in cloud technologies.
 
-#### Main Tech Stack: Python | SQL | Airflow | PostgreSQL | Azure
+#### **Main Tech Stack: Python | SQL | Airflow | PostgreSQL | Azure**
 
 ### Contact
-#### [LinkedIn](https://www.linkedin.com/in/tanish-parlapall/)
-#### [Email](mailto:tanish.parlapall@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tanish-parlapall/)
+- [Email](mailto:tanish.parlapall@gmail.com)
 <!--
 **Tanishcompsci/Tanishcompsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
